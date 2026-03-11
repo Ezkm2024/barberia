@@ -1,0 +1,13 @@
+{
+  "name": "barberia-frontend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "lite-server --baseDir=dist",
+    "build": "echo 'Use Angular CLI to build'"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.3",
+    "lite-server": "^2.6.1"
+  }
+}

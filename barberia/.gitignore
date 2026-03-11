@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+dist/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Ignore sensitive files (example)
+# appsettings.Development.json
+# secrets.json
+# Example file with DB connection. Do NOT commit real credentials.
+App.config.example
